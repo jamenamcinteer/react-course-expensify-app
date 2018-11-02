@@ -1,7 +1,5 @@
-# Git Commands
+# Expensify Changes
 
-git init - Create a new git repo
-git status - View the changes to your project code
-git add - Add files to staging area
-git commit - Creates a new commit with files from staging area
-git log - View recent commits
+1. Add confirmation modal when removing expense (use react-modal)
+2. Show number of hidden expenses in /dashboard summary (below View X expenses...)
+3. Add support for another social login system (GitHub, Facebook, Twitter)
